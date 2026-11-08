@@ -1,8 +1,8 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="i am PoviceProgrammer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="hey there, i am PoviceProgrammer"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.930%" alt=""></picture><a href="https://t.me/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://github.com/PoviceProgrammer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.930%" alt=""></picture>
+<a href="https://github.com/PoviceProgrammer/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-dark.svg"><img src="assets/project-nedotify-light.svg" width="49%" alt="NeDotify"></picture></a>&nbsp;<a href="https://github.com/PoviceProgrammer/NeDotify-Android"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-android-dark.svg"><img src="assets/project-nedotify-android-light.svg" width="49%" alt="NeDotify-Android"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="I am"></picture>
 
@@ -10,11 +10,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/PoviceProgrammer/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-dark.svg"><img src="assets/project-nedotify-light.svg" width="49%" alt="NeDotify"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.930%" alt=""></picture><a href="https://t.me/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://github.com/PoviceProgrammer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.930%" alt=""></picture>
 
 <a href="https://metawka.github.io/expressive-profile/?from=PoviceProgrammer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
