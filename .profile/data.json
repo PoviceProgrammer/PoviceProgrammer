@@ -1,8 +1,8 @@
 {
- "key": "8054ba36",
+ "key": "fef02c99",
  "stars": 0,
- "contributions": 173,
- "repos": 3,
+ "contributions": 172,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
@@ -12,10 +12,6 @@
   [
    "JavaScript",
    1928741
-  ],
-  [
-   "Kotlin",
-   1347074
   ],
   [
    "CSS",
@@ -86,12 +82,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 5,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 6,
     "today": false
    },
@@ -103,7 +99,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 4,
     "day": 8,
     "today": true
    },
@@ -128,15 +124,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "NeDotify-Android",
-   "url": "https://github.com/PoviceProgrammer/NeDotify-Android",
-   "text": "Native NeDotify Android music player: Kotlin, Compose and Media3",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
    "topics": []
   },
   {

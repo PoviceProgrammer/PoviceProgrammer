@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="hey there, i am PoviceProgrammer"></picture>
 
-<a href="https://github.com/PoviceProgrammer/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-dark.svg"><img src="assets/project-nedotify-light.svg" width="49%" alt="NeDotify"></picture></a>&nbsp;<a href="https://github.com/PoviceProgrammer/NeDotify-Android"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-android-dark.svg"><img src="assets/project-nedotify-android-light.svg" width="49%" alt="NeDotify-Android"></picture></a>
+<a href="https://github.com/PoviceProgrammer/NeDotify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nedotify-dark.svg"><img src="assets/project-nedotify-light.svg" width="49%" alt="NeDotify"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="I am"></picture>
 
