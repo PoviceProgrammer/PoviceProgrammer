@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "login": "PoviceProgrammer",
+  "seed": "#B36CFB",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "i am",
+    "name": "PoviceProgrammer",
+    "subtitle": "Creator of NeDotify, a modern open-source music player",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "I am",
+    "items": [
+      {
+        "icon": "music_note",
+        "label": "Musicaholic & NeDotify creator"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python / Qt developer"
+      },
+      {
+        "icon": "brand:linux",
+        "label": "Omarchy user"
+      },
+      {
+        "icon": "favorite",
+        "label": "Open-source lover"
+      },
+      {
+        "icon": "palette",
+        "label": "UI/UX enthusiast"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:visualstudiocode",
+            "label": "VS Code"
+          },
+          {
+            "icon": "code",
+            "label": "Codex"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "NeDotify"
+    ],
+    "overrides": {
+      "NeDotify": {
+        "text": "One of the best music players"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub",
+    "stars": "Stars",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/NeDotify"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/PoviceProgrammer"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": []
+  }
+}
