@@ -103,15 +103,11 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "NeDotify",
-      "NeDotify-Android"
+      "NeDotify"
     ],
     "overrides": {
       "NeDotify": {
         "text": "Cross-platform open-source desktop music player"
-      },
-      "NeDotify-Android": {
-        "text": "Native Android music player with Kotlin & Compose"
       }
     },
     "empty": "No description yet.",
