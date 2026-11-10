@@ -1,6 +1,6 @@
 {
- "key": "d1588a83",
- "stars": 0,
+ "key": "fdd454e3",
+ "stars": 1,
  "contributions": 172,
  "repos": 2,
  "followers": 0,
@@ -126,20 +126,11 @@
  "pins": [],
  "all": [
   {
-   "name": "PoviceProgrammer",
-   "url": "https://github.com/PoviceProgrammer/PoviceProgrammer",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "NeDotify",
    "url": "https://github.com/PoviceProgrammer/NeDotify",
    "text": "Музыкальный плеер для Windows: локальная библиотека, онлайн-источники, тексты песен и два стиля интерфейса.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Python",
    "topics": [
     "music-player",
@@ -147,6 +138,15 @@
     "pywebview",
     "windows"
    ]
+  },
+  {
+   "name": "PoviceProgrammer",
+   "url": "https://github.com/PoviceProgrammer/PoviceProgrammer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
   }
  ]
 }
