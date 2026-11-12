@@ -1,8 +1,8 @@
 {
- "key": "d6857803",
- "stars": 4,
- "contributions": 173,
- "repos": 2,
+ "key": "bbeb9912",
+ "stars": 7,
+ "contributions": 187,
+ "repos": 3,
  "followers": 1,
  "languages": [
   [
@@ -10,16 +10,20 @@
    4533973
   ],
   [
+   "HTML",
+   2755775
+  ],
+  [
+   "Kotlin",
+   1990904
+  ],
+  [
    "JavaScript",
    1928741
   ],
   [
    "CSS",
-   635177
-  ],
-  [
-   "HTML",
-   384156
+   636801
   ]
  ],
  "days": [
@@ -82,12 +86,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 5,
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 6,
     "today": false
    },
@@ -114,12 +118,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 11,
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 12,
     "today": true
    },
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 3,
   "longest": 7
  },
  "pins": [],
@@ -138,13 +142,28 @@
    "url": "https://github.com/PoviceProgrammer/NeDotify",
    "text": "Музыкальный плеер для Windows: локальная библиотека, онлайн-источники, тексты песен и два стиля интерфейса.",
    "fork": false,
-   "stars": 4,
+   "stars": 6,
    "language": "Python",
    "topics": [
     "music-player",
     "python",
     "pywebview",
     "windows"
+   ]
+  },
+  {
+   "name": "NeDotify-Android",
+   "url": "https://github.com/PoviceProgrammer/NeDotify-Android",
+   "text": "Музыкальный плеер для Android: локальная медиатека, онлайн-источники, рекомендации и тексты песен.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "media3",
+    "music-player"
    ]
   },
   {
