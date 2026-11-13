@@ -1,5 +1,5 @@
 {
- "key": "bbeb9912",
+ "key": "a42653f1",
  "stars": 7,
  "contributions": 187,
  "repos": 3,
@@ -125,9 +125,13 @@
    {
     "c": 5,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
