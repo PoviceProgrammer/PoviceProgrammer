@@ -1,6 +1,6 @@
 {
- "key": "dc56c773",
- "stars": 7,
+ "key": "18f29f53",
+ "stars": 8,
  "contributions": 192,
  "repos": 4,
  "followers": 3,
@@ -150,7 +150,7 @@
    "url": "https://github.com/PoviceProgrammer/NeDotify",
    "text": "Музыкальный плеер для Windows: локальная библиотека, онлайн-источники, тексты песен и два стиля интерфейса.",
    "fork": false,
-   "stars": 6,
+   "stars": 7,
    "language": "Python",
    "topics": [
     "music-player",
