@@ -1,6 +1,6 @@
 {
- "key": "8f956f8c",
- "stars": 11,
+ "key": "8501bcca",
+ "stars": 12,
  "contributions": 192,
  "repos": 4,
  "followers": 3,
@@ -144,7 +144,7 @@
    "url": "https://github.com/PoviceProgrammer/NeDotify-Android",
    "text": "Музыкальный плеер для Android: локальная медиатека, онлайн-источники, рекомендации и тексты песен.",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "HTML",
    "topics": [
     "android",
